@@ -7,7 +7,7 @@ a = Aluno(1234 , "Camila", "014587.2021")
 a.imprimir()
 
 print()
-print("---- AlunoEnsinoMedio ----")
+print("----- AlunoEnsinoMedio ----")
 
 aem = AlunoEnsinoMedio(15478, "Jonas", "12459.2021", 2)
 aem.imprimir()
