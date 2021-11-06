@@ -19,7 +19,7 @@ class ListaDuplaEncadeada:
             self.inicio = no
             self.fim = no
 
-        # Caso já exista algum valor na lista
+        # Caso ja exista algum valor na lista
         else:
             # O anterior aponta para o fim
             no.anterior = self.fim
